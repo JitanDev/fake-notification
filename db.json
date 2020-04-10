@@ -1,5 +1,6 @@
 {
-  "notifications":[
+  "status": "success",
+  "data":[
      {
       "actor":{
         "name": "Chandra Bose",
