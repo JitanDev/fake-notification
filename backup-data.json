@@ -1,0 +1,172 @@
+{
+  "notifications": [
+    {
+      "actor":{
+        "name": "Chandra Bose",
+        "picture": "https://images.generated.photos/U3O9erGAdOoyqxYI5olaAtqnR-ol_cYPUDAIGUY5ETM/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzAy/MDM2ODcuanBn.jpg",
+        "userName": "chandrabose",
+        "uuid": "BIuZBh9E1"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "new follower",
+    "read": false,
+    "relativeDtm": "6m",
+    "type": "follow",
+    "uuid": "jXYRIu3tBF1"
+    },
+    {
+      "actor":{
+        "name": "Nikola Tesla",
+        "picture": "https://images.generated.photos/ww3Ht-Tf6Zh17fJYFQEJeNWcqwUMhVlAVykzQH0Uu90/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzAwMDIzOTYuanBn.jpg",
+        "userName": "nikolatesla",
+        "uuid": "BIuZBh9E2"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "new comment",
+    "read": false,
+    "relativeDtm": "1h",
+    "type": "comment",
+    "uuid": "jXYRIu3tBF2"
+    },
+    {
+      "actor":[
+        {
+        "name": "Choco Charle",
+        "picture": "https://images.generated.photos/EWV-zLc5-iWQ8pMTKLsTd3L5TNCafscujeCIYmEMkuQ/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zL3Yy/XzA4MjExMjUuanBn.jpg",
+        "userName": "chococharle",
+        "uuid": "BIuZBh9E3"
+      },
+      {
+        "name": "Madam Mala",
+        "picture": "https://images.generated.photos/m7QMg8FaMvmMjdGSGhoM5_uRYqCtbVz41gF4HYvbilc/rs:fit:512:512/Z3M6Ly9nZW5lcmF0/ZWQtcGhvdG9zLzA5/NzQ2NjguanBn.jpg",
+        "userName": "madammala",
+        "uuid": "BIuZBh9E4"
+      }
+        ],
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "new like",
+    "read": true,
+    "relativeDtm": "12h",
+    "type": "like",
+    "uuid": "jXYRIu3tBF3"
+    },
+    {
+      "actor":[
+        {
+        "name": "Blaise Pascal",
+        "picture": "https://userstock.io/data/wp-content/uploads/2017/09/bewakoof-com-official-205182-150x150.jpg",
+        "userName": "blaisepascal",
+        "uuid": "BIuZBh9E5"
+      },
+       {
+        "name": "James Clerk",
+        "picture": "https://userstock.io/data/wp-content/uploads/2017/07/william-stitt-119525-150x150.jpg",
+        "userName": "jamesclerk",
+        "uuid": "BIuZBh9E6"
+      },
+       {
+        "name": "Madison Joe",
+        "picture": "https://userstock.io/data/wp-content/uploads/2017/09/bewakoof-com-official-208002-150x150.jpg",
+        "userName": "madisonjoe",
+        "uuid": "BIuZBh9E7"
+      },
+       {
+        "name": "Tony Stark",
+        "picture": "https://userstock.io/data/wp-content/uploads/2017/09/bewakoof-com-official-219589-150x150.jpg",
+        "userName": "tonystark",
+        "uuid": "BIuZBh9E8"
+      }
+        ],
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "new comment",
+    "read": true,
+    "relativeDtm": "1d",
+    "type": "comment",
+    "uuid": "jXYRIu3tBF4"
+    },
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF5"
+    } ,
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF6"
+    } ,
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF7"
+    } ,
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF8"
+    } ,
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF9"
+    } ,
+    {
+      "actor":{
+        "name": "Jitan Gupta",
+        "picture": "https://ui-avatars.com/api/?name=Jitan+Gupta&background=0D8ABC&color=fff",
+        "userName": "Jitan Gupta",
+        "uuid": "BIuZBh9E"
+      },
+    "dtmStamp": "2020-04-06T06:40:37.000Z",
+    "message": "You have a new like on your idea!",
+    "read": false,
+    "relativeDtm": "4 days ago",
+    "type": "like",
+    "uuid": "jXYRIu3tBF0"
+    } 
+  ]
+}
