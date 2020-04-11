@@ -119,17 +119,17 @@
       }
       },
        {
-        "actor":[{
+        "actors":[{
           "name": "Tesla",
           "picture": "https://userstock.io/data/wp-content/uploads/2017/09/lesly-b-juarez-276953-150x150.jpg",
           "userName": "tesla",
           "uuid": "BIuZBh9E"
         }],
       "dtmStamp": "2020-04-06T06:40:37.000Z",
-      "message": "You have a new like on your idea!",
-      "read": false,
-      "relativeDtm": "4 days ago",
-      "type": "like",
+      "message": "new idea",
+      "read": true,
+      "relativeDtm": "1d",
+      "type": "newIdeaPosted",
       "uuid": "jXYRIu3tBF8",
       "actionOn":{
         "slug": "manyajs",
