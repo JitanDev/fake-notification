@@ -14,7 +14,15 @@
       "read": false,
       "relativeDtm": "6m",
       "type": "follow",
-      "uuid": "jXYRIu3tBF1"
+      "uuid": "jXYRIu3tBF1",
+      "actionOn":{
+        "userName": "jitangupta",
+        "uuid": "BIuZBh9Ex"
+      },
+       "owner":{
+        "userName": "jitangupta",
+        "uuid": "BIuZBh9Ex"
+      }
       },
       {
         "actors":[{
@@ -28,7 +36,15 @@
       "read": false,
       "relativeDtm": "1h",
       "type": "comment",
-      "uuid": "jXYRIu3tBF2"
+      "uuid": "jXYRIu3tBF2",
+      "actionOn":{
+        "slug": "sparshstories",
+        "uuid": "BIuZBh9Ey"
+      },
+      "owner":{
+        "userName": "jitangupta",
+        "uuid": "BIuZBh9Ex"
+      }
       },
       {
         "actors":[
@@ -50,7 +66,15 @@
       "read": true,
       "relativeDtm": "12h",
       "type": "like",
-      "uuid": "jXYRIu3tBF3"
+      "uuid": "jXYRIu3tBF3",
+      "actionOn":{
+        "slug": "sparshstories",
+        "uuid": "BIuZBh9Ey"
+      },
+      "owner":{
+        "userName": "jitangupta",
+        "uuid": "BIuZBh9Ex"
+      }
       },
       {
         "actors":[
@@ -84,7 +108,37 @@
       "read": true,
       "relativeDtm": "1d",
       "type": "comment",
-      "uuid": "jXYRIu3tBF4"
+      "uuid": "jXYRIu3tBF4",
+      "actionOn":{
+        "slug": "sparshstories",
+        "uuid": "BIuZBh9Ey"
+      },
+      "owner":{
+        "userName": "jitangupta",
+        "uuid": "BIuZBh9Ex"
+      }
+      },
+       {
+        "actor":[{
+          "name": "Tesla",
+          "picture": "https://userstock.io/data/wp-content/uploads/2017/09/lesly-b-juarez-276953-150x150.jpg",
+          "userName": "tesla",
+          "uuid": "BIuZBh9E"
+        }],
+      "dtmStamp": "2020-04-06T06:40:37.000Z",
+      "message": "You have a new like on your idea!",
+      "read": false,
+      "relativeDtm": "4 days ago",
+      "type": "like",
+      "uuid": "jXYRIu3tBF8",
+      "actionOn":{
+        "slug": "manyajs",
+        "uuid": "BIuZBh9E11"
+      },
+      "owner":{
+        "userName": "tesla",
+        "uuid": "BIuZBh9E"
+      }
       }
     ]
   }
